@@ -1,6 +1,9 @@
 /*
+  HTTP/1.1 503 Service Temporarily Unavailable
+  Status: 503 Service Temporarily Unavailable
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
+  Retry-After: 300
   cache-control: max-age=0
   cache-control: no-cache
   cache-control: no-store
