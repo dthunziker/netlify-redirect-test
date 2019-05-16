@@ -1,5 +1,4 @@
 /*
-  HTTP/1.1 503 Service Temporarily Unavailable
   Status: 503 Service Temporarily Unavailable
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
